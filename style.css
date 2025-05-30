@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f6c9e2;
+    color: #f4f3f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    color: #805d40;
+    margin-bottom: 40px;
+
+}
+.poney-card{
+    background-color: #e2779b;
+    border: 2px solid #896161;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+.poney-card h2{
+    color: #674323;
+    margin-top: 0;
+}
+.poney-card img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.poney-card ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    margin-top: 15px;
+}
+.poney-card li ul{
+    margin-bottom: 5px;
+}
+
+
